@@ -1,1 +1,1 @@
-t2 filei
+echo "hello world"
